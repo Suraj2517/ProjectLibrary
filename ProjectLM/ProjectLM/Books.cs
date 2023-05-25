@@ -3,7 +3,7 @@ using System.Data;
 
 namespace ProjectLM
 {
-    internal class Books
+    internal class Books 
     {
         public static void AddBookDetails(SqlConnection con)
         {
